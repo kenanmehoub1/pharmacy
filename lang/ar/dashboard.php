@@ -1,0 +1,26 @@
+<?php
+
+return [
+    'total_sales' => 'إجمالي المبيعات',
+    'total_purchases' => 'إجمالي المشتريات',
+    'total_profit' => 'إجمالي الأرباح',
+    'products' => 'المنتجات',
+    'invoices' => 'فاتورة',
+    'profit_margin' => 'حسب تكلفة البضاعة المباعة',
+    'low_stock' => 'مخزون منخفض',
+    'low_stock_desc' => 'يحتاج إعادة طلب',
+    'expiring_in_90' => 'تنتهي خلال 90 يوم',
+    'expiring_in_30' => 'تنتهي خلال 30 يوم',
+    'expired' => 'منتهية الصلاحية',
+    'expired_desc' => 'يجب إتلافها',
+    'days_90' => '90 يوم',
+    'days_30' => '30 يوم',
+    'sales' => 'المبيعات',
+    'sales_last_7_days' => 'المبيعات (آخر 7 أيام)',
+    'low_stock_medicines' => 'الأدوية منخفضة المخزون',
+    'today_sales' => 'مبيعات اليوم',
+'today_profit' => 'أرباح اليوم',
+'vs_yesterday' => 'مقارنة بالأمس',
+'expired_medicines' => 'الأدوية منتهية الصلاحية',
+'expiring_soon_medicines' => 'الأدوية التي تنتهي خلال 90 يوم',
+];

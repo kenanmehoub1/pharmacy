@@ -1,0 +1,26 @@
+<?php
+
+return [
+    'title' => 'Medicine',
+    'title_plural' => 'Medicines',
+    'name' => 'Medicine Name',
+    'scientific_name' => 'Scientific Name',
+    'barcode' => 'Barcode',
+    'category' => 'Category',
+    'price' => 'Selling Price',
+    'cost' => 'Cost Price',
+    'stock' => 'Stock',
+    'min_stock' => 'Min Stock',
+    'expiry_date' => 'Expiry Date',
+    'description' => 'Description',
+    'created_at' => 'Created At',
+    'low_stock_filter' => 'Low Stock',
+'expiring_soon_filter' => 'Expiring in 90 days',
+'expired_filter' => 'Expired',
+'company_name' => 'Company Name',
+'stock_managed_by_invoices' => 'Stock is managed automatically via purchase and sale invoices',
+'cost_managed_by_invoices' => 'Updated automatically when purchasing from a supplier',
+'add_via_purchase' => 'Add Medicine (Purchase)',
+'id'=>'number',
+'updated_at' => 'Updated At',
+];

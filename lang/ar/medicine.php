@@ -1,0 +1,26 @@
+<?php
+
+return [
+    'title' => 'دواء',
+    'title_plural' => 'الأدوية',
+    'name' => 'اسم الدواء',
+    'scientific_name' => 'الاسم العلمي',
+    'barcode' => 'الباركود',
+    'category' => 'الفئة',
+    'price' => 'سعر البيع',
+    'cost' => 'سعر التكلفة',
+    'stock' => 'المخزون',
+    'min_stock' => 'الحد الأدنى',
+    'expiry_date' => 'تاريخ الصلاحية',
+    'description' => 'الوصف',
+    'created_at' => 'تاريخ الإضافة',
+    'low_stock_filter' => 'مخزون منخفض',
+'expiring_soon_filter' => 'تنتهي خلال 90 يوم',
+'expired_filter' => 'منتهية الصلاحية',
+'company_name' => 'اسم الشركة',
+'stock_managed_by_invoices' => 'يُدار المخزون تلقائياً عبر فواتير الشراء والبيع',
+'cost_managed_by_invoices' => 'يُحدَّث تلقائياً عند الشراء من مورد',
+'add_via_purchase' => 'إضافة دواء (فاتورة شراء)',
+'id'=>'الرقم',
+'updated_at' => 'تاريخ التعديل',
+];

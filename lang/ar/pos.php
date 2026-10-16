@@ -1,0 +1,27 @@
+<?php
+
+return [
+    'medicines' => 'الأدوية',
+    'cart' => 'سلة الفاتورة',
+    'cart_empty' => 'السلة فارغة',
+    'subtotal' => 'المجموع الفرعي',
+    'discount' => 'الخصم',
+    'total' => 'الإجمالي',
+    'checkout' => 'إتمام البيع',
+    'stock' => 'المخزون',
+    'sale_completed' => 'تم إتمام البيع بنجاح',
+    'customer' => 'العميل',
+'walk_in' => 'عميل عابر',
+'search_placeholder' => 'ابحث بالاسم أو الباركود...',
+'no_results' => 'لا توجد نتائج',
+'tax' => 'الضريبة',
+'existing_customer' => 'عميل موجود',
+'new_customer' => 'عميل جديد',
+'payment_method' => 'طريقة الدفع',
+'cash' => 'نقدي',
+'card' => 'بطاقة',
+'credit' => 'دين',
+'credit_requires_customer' => 'يجب اختيار عميل عند البيع بالدين',
+'credit_note' => 'سيُضاف المبلغ إلى رصيد العميل.',
+'print_last'=>'طباعة آخر فاتورة',
+];

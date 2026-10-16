@@ -1,0 +1,26 @@
+<?php
+
+return [
+    'total_sales' => 'Total Sales',
+    'total_purchases' => 'Total Purchases',
+    'total_profit' => 'Total Profit',
+    'products' => 'Products',
+    'invoices' => 'invoices',
+    'profit_margin' => 'Based on cost of goods sold',
+    'low_stock' => 'Low Stock',
+    'low_stock_desc' => 'Needs reorder',
+    'expiring_in_90' => 'Expiring in 90 days',
+    'expiring_in_30' => 'Expiring in 30 days',
+    'expired' => 'Expired',
+    'expired_desc' => 'Must be disposed',
+    'days_90' => '90 days',
+    'days_30' => '30 days',
+    'sales' => 'Sales',
+    'sales_last_7_days' => 'Sales (Last 7 Days)',
+    'low_stock_medicines' => 'Low Stock Medicines',
+    'today_sales' => 'Today\'s Sales',
+'today_profit' => 'Today\'s Profit',
+'vs_yesterday' => 'vs yesterday',
+'expired_medicines' => 'Expired Medicines',
+'expiring_soon_medicines' => 'Medicines Expiring in 90 Days',
+];

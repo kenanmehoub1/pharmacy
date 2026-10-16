@@ -1,0 +1,27 @@
+<?php
+
+return [
+    'medicines' => 'Medicines',
+    'cart' => 'Cart',
+    'cart_empty' => 'Cart is empty',
+    'subtotal' => 'Subtotal',
+    'discount' => 'Discount',
+    'total' => 'Total',
+    'checkout' => 'Checkout',
+    'stock' => 'Stock',
+    'sale_completed' => 'Sale completed successfully',
+    'customer' => 'Customer',
+'walk_in' => 'Walk-in Customer',
+'search_placeholder' => 'Search by name or barcode...',
+'no_results' => 'No results found',
+'tax' => 'Tax',
+'existing_customer' => 'Existing Customer',
+'new_customer' => 'New Customer',
+'payment_method' => 'Payment Method',
+'cash' => 'Cash',
+'card' => 'Card',
+'credit' => 'Credit',
+'credit_requires_customer' => 'Customer is required for credit sales',
+'credit_note' => 'The amount will be added to the customer\'s balance.',
+'print_last'=>'Print Last Sale',
+];
